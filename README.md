@@ -1,11 +1,11 @@
 # QuickStart-AngularJS
 What is AngularJS and How to learn AngularJS
 
-Vist AngularJS Tutorial Website : http://www.angularjstutorials.co.in/
+Vist AngularJS Tutorial Website : http://www.angularjstutorials.co.in/ <br/>
 
 Web site: https://angularjs.org <br/>
-Tutorial: https://docs.angularjs.org/tutorial
-API Docs: https://docs.angularjs.org/api
+Tutorial: https://docs.angularjs.org/tutorial <br/>
+API Docs: https://docs.angularjs.org/api <br/>
 
 AngularJS is a JavaScript Framework that help us to build dynamic web application or single web page application.
 AngularJS was developed by Google.inc and released on 2012.
