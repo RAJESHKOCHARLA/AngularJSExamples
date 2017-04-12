@@ -1,4 +1,4 @@
-# AngularJSExamples
+# AngularJSE
 What is AngularJS and How to learn AngularJS
 
 Vist AngularJS Tutorial Website : http://www.angularjstutorials.co.in/
