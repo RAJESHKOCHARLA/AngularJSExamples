@@ -3,6 +3,10 @@ AngularJS Basic Examples
 
 Vist AngularJS Tutorial Website : http://www.angularjstutorials.co.in/
 
+Web site: https://angularjs.org
+Tutorial: https://docs.angularjs.org/tutorial
+API Docs: https://docs.angularjs.org/api
+
 AngularJS is a JavaScript Framework that help us to build dynamic web application or single web page application.
 AngularJS was developed by Google.inc and released on 2012.
 AngularJS is open source where any one can use freely
