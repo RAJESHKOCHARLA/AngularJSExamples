@@ -3,7 +3,7 @@ What is AngularJS and How to learn AngularJS
 
 Vist AngularJS Tutorial Website : http://www.angularjstutorials.co.in/
 
-Web site: https://angularjs.org
+Web site: https://angularjs.org <br/>
 Tutorial: https://docs.angularjs.org/tutorial
 API Docs: https://docs.angularjs.org/api
 
